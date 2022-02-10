@@ -1977,4 +1977,19 @@ div.cs-select span {
   background: url(../images/hourglass.svg) center no-repeat #222222;
 }
 
+/*------------------新加样式--------------------------*/
+
+#conpany-logo{
+  width: 150px;
+}
+
+.desc{
+
+  text-align: center;
+
+}
+
+.desc span{
+  font-size: 25px;
+}
 /*# sourceMappingURL=style.css.map */
